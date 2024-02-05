@@ -56,7 +56,7 @@ const Header = () => {
     <div className="text-white font-bold bg-[#dadada] ">
       <nav className="bg-[#131921] p-5 flex  items-center justify-between">
         <div>
-          <img className="w-20" src={logo} alt="logo"></img>
+          <img className="w-24" src={logo} alt="logo"></img>
         </div>
         <div className="flex items-center gap-2">
           <div>
