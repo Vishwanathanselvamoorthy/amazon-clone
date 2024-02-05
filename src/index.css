@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In your styles or in a dedicated CSS file */
+/* In your styles or in a dedicated CSS file */
+.custom-negative-margin {
+    margin-left: -20vw;
+  }
+  
+  
